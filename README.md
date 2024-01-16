@@ -1,3 +1,4 @@
+l[logo][https://github.com/AARATIJADHAV/AARATIJADHAV/blob/main/banner.jpg]
 <h1 align="center">Hi 👋, I'm Aarati</h1>
 <h3 align="center">A passionate full Stack Java Developer from India</h3>
 
