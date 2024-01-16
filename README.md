@@ -1,7 +1,7 @@
 ![logo](https://github.com/AARATIJADHAV/AARATIJADHAV/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Aarati</h1>
 <h3 align="center">A passionate full Stack Java Developer from India</h3>
-<img align="right"alt="coding" width="400"src="">
+<img align="right"alt="coding" width="400"src="https://github.com/AARATIJADHAV/AARATIJADHAV/blob/main/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaratijadhav&label=Profile%20views&color=0e75b6&style=flat" alt="aaratijadhav" /> </p>
 
 - 🔭 I’m currently done in Spring boot **Online Education System**
