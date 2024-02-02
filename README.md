@@ -1,4 +1,4 @@
-![logo](https://github.com/AARATIJADHAV/AARATIJADHAV/blob/main/banner3.jpg)
+![logo](https://github.com/AARATIJADHAV/AARATIJADHAV/blob/main/banner3.png)
 <h1 align="center">Hi 👋, I'm Aarati</h1>
 <h3 align="center">A passionate full Stack Java Developer from India</h3>
 <img align="right"alt="coding" width="400"src="https://github.com/AARATIJADHAV/AARATIJADHAV/blob/main/avento.gif">
